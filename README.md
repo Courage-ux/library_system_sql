@@ -1,6 +1,3 @@
-# library_system_sql
-
-
 # Library Management System
 
 This project is a simple MySQL database for managing books, authors, library members, and book loans. It was created as part of a beginner SQL assignment.
@@ -17,8 +14,8 @@ This project is a simple MySQL database for managing books, authors, library mem
 
 ## How to Use
 
-1. Open your MySQL environment (e.g., MySQL Workbench or XAMPP).
-2. Create a new database (e.g., `library_db`).
+1. Open your MySQL environment.
+2. Create a new database.
 3. Open the `library_system.sql` file.
 4. Run the script to create all tables.
 
